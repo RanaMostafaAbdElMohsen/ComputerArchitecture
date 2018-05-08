@@ -1,0 +1,199 @@
+{C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Ahmed/New folder (6)/memoryStage.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Ahmed/New folder (6)/memoryStage.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity memory
+-- Compiling architecture memory of memory
+
+} {} {}} {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/ExecuteStage.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/ExecuteStage.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ExecuteStage
+-- Compiling architecture ExeArch of ExecuteStage
+
+} {} {}} {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Ahmed/New folder (6)/memoryUnit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Ahmed/New folder (6)/memoryUnit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ram
+-- Compiling architecture ram of ram
+
+} {} {}} {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/Fetch_Decode_Buffer.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/Fetch_Decode_Buffer.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Fetch_Decode_Buffer
+-- Compiling architecture archFetch_Decode_Buffer of Fetch_Decode_Buffer
+
+} {} {}} {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/ALU.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/ALU.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ALU
+-- Compiling architecture ALUArch of ALU
+
+} {} {}} {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/genericRegister.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/genericRegister.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity genericRegister
+-- Compiling architecture registerArch of genericRegister
+
+} {} {}} {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/RegisterFile.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/RegisterFile.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity RegisterFile
+-- Compiling architecture MainRegisterFile of RegisterFile
+
+} {} {}} {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/register.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/register.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity my_nDFF
+-- Compiling architecture a_my_nDFF of my_nDFF
+
+} {} {}} {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/IFet.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/IFet.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity IFet
+-- Compiling architecture archIFet of IFet
+
+} {} {}} {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/fullAdder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/fullAdder.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fullAdder
+-- Compiling architecture adderArch of fullAdder
+
+} {} {}} {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/flagBuffer.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/flagBuffer.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity flagBuffer
+-- Compiling architecture flagArch of flagBuffer
+
+} {} {}} {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/Decoder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/Decoder.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Decoder
+-- Compiling architecture mainDecoder of Decoder
+
+} {} {}} {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/instruction_memory.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/instruction_memory.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity instruction_memory
+-- Compiling architecture archinstruction_memory of instruction_memory
+
+} {} {}} {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/genericAdder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/genericAdder.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity genericAdder
+-- Compiling architecture gAdderArch of genericAdder
+
+} {} {}} {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/CU.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/CU.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity CU
+-- Compiling architecture mainCU of CU
+
+} {} {}} {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Ahmed/New folder (6)/writebackstage.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Ahmed/New folder (6)/writebackstage.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity writeback
+-- Compiling architecture writeback of writeback
+
+} {} {}} {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/branchCalculator.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/branchCalculator.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity branchCalc
+-- Compiling architecture branchArch of branchCalc
+
+} {} {}} {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/Mux.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/Mux.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Mux
+-- Compiling architecture mainMux of Mux
+
+} {} {}} {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/Mux2x1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/Mux2x1.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2x1
+-- Compiling architecture archmux2x1 of mux2x1
+
+} {} {}} {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/LabExam/Reg.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/LabExam/Reg.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity my_DFF
+-- Compiling architecture a_my_DFF of my_DFF
+
+} {} {}} {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/Mux4x1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/Mux4x1.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux4x1
+-- Compiling architecture archmux4x1 of mux4x1
+
+} {} {}} {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/ForwardingUnit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/ForwardingUnit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ForwUnit
+-- Compiling architecture FUArch of ForwUnit
+
+} {} {}} {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/PC_reg.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/PC_reg.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity PC_reg
+-- Compiling architecture archPC_reg of PC_reg
+
+} {} {}}

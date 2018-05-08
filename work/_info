@@ -1,0 +1,976 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Ealu
+Z0 w1525686731
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project
+Z5 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/ALU.vhd
+Z6 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/ALU.vhd
+l0
+L9
+VgFGAZ8[K;nYI[TcOYE>Bb1
+!s100 DjHN2JZMF;D6WE8Pk`ZO<0
+Z7 OP;C;10.4a;61
+32
+Z8 !s110 1525788733
+!i10b 1
+Z9 !s108 1525788733.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/ALU.vhd|
+Z11 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/ALU.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+Aaluarch
+R1
+R2
+R3
+DEx4 work 3 alu 0 22 gFGAZ8[K;nYI[TcOYE>Bb1
+l69
+L19
+VbkOEeiaa[]43GjRcdF[A_2
+!s100 2dMZWaJ;[c0M7bkcYgVCE1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ebranchcalc
+Z14 w1525616325
+R1
+R2
+R3
+R4
+Z15 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/branchCalculator.vhd
+Z16 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/branchCalculator.vhd
+l0
+L7
+VYK]5QlQSRE2KegYHWGO>o3
+!s100 :OB192=5Nf46IT5<m1K361
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/branchCalculator.vhd|
+Z18 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/branchCalculator.vhd|
+!i113 1
+R12
+R13
+Abrancharch
+R1
+R2
+R3
+DEx4 work 10 branchcalc 0 22 YK]5QlQSRE2KegYHWGO>o3
+l19
+L17
+VPzXUh5_[83<5L6RU?6L3I1
+!s100 EQH[2Ai>U18CI=T?^LSoZ1
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Ecu
+Z19 w1525702297
+R1
+R2
+R3
+R4
+Z20 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/CU.vhd
+Z21 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/CU.vhd
+l0
+L5
+Vo5:hJg1PF7L<1^H9ZOdoN3
+!s100 EiMT5i`SGLPMO]Z@0Bn]53
+R7
+32
+Z22 !s110 1525788730
+!i10b 1
+Z23 !s108 1525788730.000000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/CU.vhd|
+Z25 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/CU.vhd|
+!i113 1
+R12
+R13
+Amaincu
+R1
+R2
+R3
+DEx4 work 2 cu 0 22 o5:hJg1PF7L<1^H9ZOdoN3
+l49
+L45
+VoSGMBzzZ5K@]ZLkMQVhnT3
+!s100 d`MST9eUgRec1cY`IAFfo2
+R7
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 1
+R12
+R13
+Edecoder
+Z26 w1525609756
+R1
+R2
+R3
+R4
+Z27 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/Decoder.vhd
+Z28 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/Decoder.vhd
+l0
+L4
+VWAne?XT29Z6S^PQ[aUCj@2
+!s100 jZ78choPlIQoQ9A88M1DA1
+R7
+32
+R22
+!i10b 1
+R23
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/Decoder.vhd|
+Z30 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/Decoder.vhd|
+!i113 1
+R12
+R13
+Amaindecoder
+R1
+R2
+R3
+DEx4 work 7 decoder 0 22 WAne?XT29Z6S^PQ[aUCj@2
+l52
+L21
+VK>lO>C]M9[^b_48]08fDo2
+!s100 ]=B_jIigVW=b9l9J>jFlh3
+R7
+32
+R22
+!i10b 1
+R23
+R29
+R30
+!i113 1
+R12
+R13
+Eexecutestage
+Z31 w1525715842
+R1
+R2
+R3
+R4
+Z32 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/ExecuteStage.vhd
+Z33 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/ExecuteStage.vhd
+l0
+L5
+VJe991z<ZcV]RXGW5S6HYm0
+!s100 TR0YEZLA4oV_K0fZZ9:bi2
+R7
+32
+R8
+!i10b 1
+R9
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/ExecuteStage.vhd|
+Z35 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/ExecuteStage.vhd|
+!i113 1
+R12
+R13
+Aexearch
+R1
+R2
+R3
+DEx4 work 12 executestage 0 22 Je991z<ZcV]RXGW5S6HYm0
+l93
+L32
+V5NDW^U2kNjIbBF<jQ7Fm11
+!s100 zVdPbImR]=F]RHJkCYYhR2
+R7
+32
+R8
+!i10b 1
+R9
+R34
+R35
+!i113 1
+R12
+R13
+Efetch_decode_buffer
+Z36 w1525731282
+R2
+R3
+R4
+Z37 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/Fetch_Decode_Buffer.vhd
+Z38 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/Fetch_Decode_Buffer.vhd
+l0
+L4
+VE9`b[FdFG7YXOiR:Zf@011
+!s100 mE6FId=PHHz8Pz2;h4fS@3
+R7
+32
+Z39 !s110 1525788731
+!i10b 1
+R23
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/Fetch_Decode_Buffer.vhd|
+Z41 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/Fetch_Decode_Buffer.vhd|
+!i113 1
+R12
+R13
+Aarchfetch_decode_buffer
+R2
+R3
+DEx4 work 19 fetch_decode_buffer 0 22 E9`b[FdFG7YXOiR:Zf@011
+l23
+L22
+VnVFH]e[K0[WDDcTgV9hgE3
+!s100 MJC>hJAM3J4mZ]2YBzg^Q3
+R7
+32
+R39
+!i10b 1
+R23
+R40
+R41
+!i113 1
+R12
+R13
+Eflagbuffer
+Z42 w1525624375
+R1
+R2
+R3
+R4
+Z43 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/flagBuffer.vhd
+Z44 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/flagBuffer.vhd
+l0
+L7
+VDCPND_g[gC?:U=]R`T;JR0
+!s100 790;k6gHEC;JF4bXL2_3C1
+R7
+32
+Z45 !s110 1525788734
+!i10b 1
+R9
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/flagBuffer.vhd|
+Z47 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/flagBuffer.vhd|
+!i113 1
+R12
+R13
+Aflagarch
+R1
+R2
+R3
+DEx4 work 10 flagbuffer 0 22 DCPND_g[gC?:U=]R`T;JR0
+l20
+L16
+VDK_SGAnoKdOfO?CWGDAzC0
+!s100 Q6VTa5Mohd7nz[9Z5@:_63
+R7
+32
+R45
+!i10b 1
+R9
+R46
+R47
+!i113 1
+R12
+R13
+Eforwunit
+Z48 w1525715342
+R1
+R2
+R3
+R4
+Z49 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/ForwardingUnit.vhd
+Z50 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/ForwardingUnit.vhd
+l0
+L9
+VHdP?0C^j2GCTMkNY4XiGD1
+!s100 ha9JHHaZX4fQOWB9F_2:C2
+R7
+32
+R45
+!i10b 1
+Z51 !s108 1525788734.000000
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/ForwardingUnit.vhd|
+Z53 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/ForwardingUnit.vhd|
+!i113 1
+R12
+R13
+Afuarch
+R1
+R2
+R3
+DEx4 work 8 forwunit 0 22 HdP?0C^j2GCTMkNY4XiGD1
+l23
+L22
+VJaXA:f:WQOW`Oj57ofgH=0
+!s100 gD==MP0U]HMMNS;bLWDFB2
+R7
+32
+R45
+!i10b 1
+R51
+R52
+R53
+!i113 1
+R12
+R13
+Efulladder
+Z54 w1524397041
+R2
+R3
+R4
+Z55 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/fullAdder.vhd
+Z56 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/fullAdder.vhd
+l0
+L3
+VLBZdTh2S`Pk_[SU5>Jc941
+!s100 OIanL]^L_I;QgjOEFEDn62
+R7
+32
+R45
+!i10b 1
+R51
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/fullAdder.vhd|
+Z58 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/fullAdder.vhd|
+!i113 1
+R12
+R13
+Aadderarch
+R2
+R3
+DEx4 work 9 fulladder 0 22 LBZdTh2S`Pk_[SU5>Jc941
+l12
+L11
+VhUM?TDL@f07:<30VUTAT]1
+!s100 0hm3lQ_B6Sj6jDSK0k;lL0
+R7
+32
+R45
+!i10b 1
+R51
+R57
+R58
+!i113 1
+R12
+R13
+Egenericadder
+Z59 w1524397591
+R2
+R3
+R4
+Z60 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/genericAdder.vhd
+Z61 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/genericAdder.vhd
+l0
+L4
+VTW=aHXn[1GIEBoKQFifFI1
+!s100 CQ^kbb6TU3SFPCF1;F>5F2
+R7
+32
+R45
+!i10b 1
+R51
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/genericAdder.vhd|
+Z63 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/genericAdder.vhd|
+!i113 1
+R12
+R13
+Agadderarch
+R2
+R3
+DEx4 work 12 genericadder 0 22 TW=aHXn[1GIEBoKQFifFI1
+l23
+L14
+V5[137HJz<D5C>3WTK@@5F2
+!s100 0JPPhCZ]VBJTdG?IGKcZC3
+R7
+32
+R45
+!i10b 1
+R51
+R62
+R63
+!i113 1
+R12
+R13
+Egenericregister
+Z64 w1523884975
+R2
+R3
+R4
+Z65 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/genericRegister.vhd
+Z66 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/genericRegister.vhd
+l0
+L4
+Vh]Anj<_bQD>]5S?mKzU[B1
+!s100 dX]:;=Dj6[Kf3>ZBBFgOk3
+R7
+32
+R45
+!i10b 1
+R51
+Z67 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/genericRegister.vhd|
+Z68 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/genericRegister.vhd|
+!i113 1
+R12
+R13
+Aregisterarch
+R2
+R3
+DEx4 work 15 genericregister 0 22 h]Anj<_bQD>]5S?mKzU[B1
+l12
+L11
+V[:TQ68gXAHJI;oRZl3[X_1
+!s100 i?iJaVQmiUjd4^fXcj2=73
+R7
+32
+R45
+!i10b 1
+R51
+R67
+R68
+!i113 1
+R12
+R13
+Eifet
+Z69 w1525701467
+R1
+R2
+R3
+R4
+Z70 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/IFet.vhd
+Z71 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/IFet.vhd
+l0
+L5
+V^czPMJ3c1jORXGOK4P6m21
+!s100 ogcQie1X]OWc7DbBW1^iY3
+R7
+32
+R39
+!i10b 1
+Z72 !s108 1525788731.000000
+Z73 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/IFet.vhd|
+Z74 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/IFet.vhd|
+!i113 1
+R12
+R13
+Aarchifet
+R1
+R2
+R3
+DEx4 work 4 ifet 0 22 ^czPMJ3c1jORXGOK4P6m21
+l68
+L22
+VXVAYXnGkCM_`?OCL1_Uoj1
+!s100 Yb@WY?f5P_@HR8BWLlFkD1
+R7
+32
+R39
+!i10b 1
+R72
+R73
+R74
+!i113 1
+R12
+R13
+Einstruction_memory
+Z75 w1525693796
+R1
+R2
+R3
+R4
+Z76 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/instruction_memory.vhd
+Z77 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/instruction_memory.vhd
+l0
+L5
+V1=S7J?;4_eF:@L@OS5ViO3
+!s100 CJU;RLB_1XD`A8RoiOiCW0
+R7
+32
+R39
+!i10b 1
+R72
+Z78 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/instruction_memory.vhd|
+Z79 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/instruction_memory.vhd|
+!i113 1
+R12
+R13
+Aarchinstruction_memory
+R1
+R2
+R3
+DEx4 work 18 instruction_memory 0 22 1=S7J?;4_eF:@L@OS5ViO3
+l15
+L12
+VZn1UDUNz22K3EXCY2ZdlJ2
+!s100 4B<dN7aZjX4TOL9eBl_:>1
+R7
+32
+R39
+!i10b 1
+R72
+R78
+R79
+!i113 1
+R12
+R13
+Ememory
+Z80 w1525695068
+R1
+R2
+R3
+R4
+Z81 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Ahmed/New folder (6)/memoryStage.vhd
+Z82 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Ahmed/New folder (6)/memoryStage.vhd
+l0
+L5
+V?9k]=5oP9G6YBG24bIjXN0
+!s100 gWTURjC972`CmlDX5jf>H2
+R7
+32
+Z83 !s110 1525788735
+!i10b 1
+Z84 !s108 1525788735.000000
+Z85 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Ahmed/New folder (6)/memoryStage.vhd|
+Z86 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Ahmed/New folder (6)/memoryStage.vhd|
+!i113 1
+R12
+R13
+Amemory
+R1
+R2
+R3
+DEx4 work 6 memory 0 22 ?9k]=5oP9G6YBG24bIjXN0
+l55
+L38
+VG<<E8ZKQNA<JXCe]:ZR8A1
+!s100 E_MGI`D^:m47mQI3O6cRi3
+R7
+32
+R83
+!i10b 1
+R84
+R85
+R86
+!i113 1
+R12
+R13
+Emux
+Z87 w1525424943
+R1
+R2
+R3
+R4
+Z88 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/Mux.vhd
+Z89 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/Mux.vhd
+l0
+L7
+VL_=^Wc[@Q^AYK:6kimnSd1
+!s100 j1[SQk4>iWWR7l[mcN@3=0
+R7
+32
+R22
+!i10b 1
+R23
+Z90 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/Mux.vhd|
+Z91 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/Mux.vhd|
+!i113 1
+R12
+R13
+Amainmux
+R1
+R2
+R3
+DEx4 work 3 mux 0 22 L_=^Wc[@Q^AYK:6kimnSd1
+l17
+L16
+VXZhQ9LA0TIZ@b0RE^f0C33
+!s100 ioPXGC4^c[@<mbjmd9SkI1
+R7
+32
+R22
+!i10b 1
+R23
+R90
+R91
+!i113 1
+R12
+R13
+Emux2x1
+Z92 w1524693563
+R2
+R3
+R4
+Z93 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/Mux2x1.vhd
+Z94 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/Mux2x1.vhd
+l0
+L4
+VdQ`ZFhHTG?@bGT4HzT@Jj3
+!s100 Em`h9cEZVXRX<]:V5X?DT2
+R7
+32
+Z95 !s110 1525788732
+!i10b 1
+Z96 !s108 1525788732.000000
+Z97 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/Mux2x1.vhd|
+Z98 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/Mux2x1.vhd|
+!i113 1
+R12
+R13
+Aarchmux2x1
+R2
+R3
+DEx4 work 6 mux2x1 0 22 dQ`ZFhHTG?@bGT4HzT@Jj3
+l15
+L14
+V`=51R7lC0<H:=gnT;n?[D2
+!s100 z[[GnUPA^bcGj1;=TFBW02
+R7
+32
+R95
+!i10b 1
+R96
+R97
+R98
+!i113 1
+R12
+R13
+Emux4x1
+Z99 w1524084832
+R2
+R3
+R4
+Z100 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/Mux4x1.vhd
+Z101 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/Mux4x1.vhd
+l0
+L4
+VB7d>^O38KnQRF8Rjo80LC1
+!s100 bKL=Ii=3TdZddeI@S5koZ0
+R7
+32
+R8
+!i10b 1
+R96
+Z102 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/Mux4x1.vhd|
+Z103 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/Mux4x1.vhd|
+!i113 1
+R12
+R13
+Aarchmux4x1
+R2
+R3
+DEx4 work 6 mux4x1 0 22 B7d>^O38KnQRF8Rjo80LC1
+l16
+L15
+V7=An`]A0KfGN6X1NGRJaP3
+!s100 ?>`5F03NSSXQg2k:JF^N@2
+R7
+32
+R8
+!i10b 1
+R96
+R102
+R103
+!i113 1
+R12
+R13
+Emy_dff
+Z104 w1523783460
+R2
+R3
+R4
+Z105 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/LabExam/Reg.vhd
+Z106 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/LabExam/Reg.vhd
+l0
+L3
+VTAI`a04:ei`dHQ^;C4TY91
+!s100 k_[OVVPW`^L]g;V;SK4JY1
+R7
+32
+R83
+!i10b 1
+R84
+Z107 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/LabExam/Reg.vhd|
+Z108 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/LabExam/Reg.vhd|
+!i113 1
+R12
+R13
+Aa_my_dff
+R2
+R3
+DEx4 work 6 my_dff 0 22 TAI`a04:ei`dHQ^;C4TY91
+l9
+L8
+Vk>g6MHl:5SLo^[=IIfH;F2
+!s100 ][AhRjXO[:BZj12flM0?U0
+R7
+32
+R83
+!i10b 1
+R84
+R107
+R108
+!i113 1
+R12
+R13
+Emy_ndff
+Z109 w1525713259
+R2
+R3
+R4
+Z110 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/register.vhd
+Z111 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/register.vhd
+l0
+L9
+V9jNZ?SMQ0FRfhnn>jKmSB2
+!s100 oP7TWX<h07KRMXB>f`ViU3
+R7
+32
+R22
+!i10b 1
+R23
+Z112 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/register.vhd|
+Z113 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/register.vhd|
+!i113 1
+R12
+R13
+Aa_my_ndff
+R2
+R3
+DEx4 work 7 my_ndff 0 22 9jNZ?SMQ0FRfhnn>jKmSB2
+l19
+L16
+VO[8hSBWiFBD]R;RgWeUOV2
+!s100 z0fG1@GZ7:]n6`6]2Q2L[2
+R7
+32
+R22
+!i10b 1
+R23
+R112
+R113
+!i113 1
+R12
+R13
+Epc_reg
+Z114 w1525609892
+R2
+R3
+R4
+Z115 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/PC_reg.vhd
+Z116 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/PC_reg.vhd
+l0
+L4
+V>ZSP^oSJXZ`P6S07dUI_h1
+!s100 iEeQFR;^Vhk?25jlMMUGV1
+R7
+32
+R8
+!i10b 1
+R9
+Z117 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/PC_reg.vhd|
+Z118 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Alaa/PC_reg.vhd|
+!i113 1
+R12
+R13
+Aarchpc_reg
+R2
+R3
+DEx4 work 6 pc_reg 0 22 >ZSP^oSJXZ`P6S07dUI_h1
+l12
+L11
+V`0gMAOjEP@am@zNgoLNJ72
+!s100 f_4WL[QgUi`0k_`J=ngO91
+R7
+32
+R8
+!i10b 1
+R9
+R117
+R118
+!i113 1
+R12
+R13
+Eprocessor
+Z119 w1525787467
+R1
+R2
+R3
+R4
+Z120 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/Processor.vhd
+Z121 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/Processor.vhd
+l0
+L5
+V>amB47e46:8O@c<z6h<UU0
+!s100 6:7JDKRm`JiPDBhBYc26O1
+R7
+32
+R83
+!i10b 1
+R84
+Z122 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/Processor.vhd|
+Z123 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Bilal/Processor.vhd|
+!i113 1
+R12
+R13
+Amainarch
+R1
+R2
+R3
+DEx4 work 9 processor 0 22 >amB47e46:8O@c<z6h<UU0
+l305
+L15
+VPAWo<OIBj25>[ne0I^ONS3
+!s100 5lkmTKbhKz62HF]SO<hLm0
+R7
+32
+R83
+!i10b 1
+R84
+R122
+R123
+!i113 1
+R12
+R13
+Eram
+Z124 w1525446306
+R1
+R2
+R3
+R4
+Z125 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Ahmed/New folder (6)/memoryUnit.vhd
+Z126 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Ahmed/New folder (6)/memoryUnit.vhd
+l0
+L5
+VeI=7Jl1Nl3WELMRbhl`D>2
+!s100 `z@WPkjlzn:lKDk;[0RHW0
+R7
+32
+R83
+!i10b 1
+R84
+Z127 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Ahmed/New folder (6)/memoryUnit.vhd|
+Z128 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Ahmed/New folder (6)/memoryUnit.vhd|
+!i113 1
+R12
+R13
+Aram
+R1
+R2
+R3
+Z129 DEx4 work 3 ram 0 22 eI=7Jl1Nl3WELMRbhl`D>2
+l22
+L18
+Z130 VXKVVP^d@Zo]YJN3GFcaz42
+Z131 !s100 [m6m>Mf9elK1F;<gne6jg2
+R7
+32
+R83
+!i10b 1
+R84
+R127
+R128
+!i113 1
+R12
+R13
+Eregisterfile
+Z132 w1525786130
+R1
+R2
+R3
+R4
+Z133 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/RegisterFile.vhd
+Z134 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/RegisterFile.vhd
+l0
+L5
+V_dWeZ=zj[fQIY48<PAc_J3
+!s100 9I[FicMBgmY6@UC[eY<M:3
+R7
+32
+R22
+!i10b 1
+R23
+Z135 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/RegisterFile.vhd|
+Z136 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Rana/RegisterFile.vhd|
+!i113 1
+R12
+R13
+Amainregisterfile
+R1
+R2
+R3
+DEx4 work 12 registerfile 0 22 _dWeZ=zj[fQIY48<PAc_J3
+l31
+L19
+VN8T[>9<;@IdH`=RS`YE5S3
+!s100 o9n57Wj8V8j9TUaX]S?7<3
+R7
+32
+R22
+!i10b 1
+R23
+R135
+R136
+!i113 1
+R12
+R13
+Ewriteback
+Z137 w1525727455
+R1
+R2
+R3
+R4
+Z138 8C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Ahmed/New folder (6)/writebackstage.vhd
+Z139 FC:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Ahmed/New folder (6)/writebackstage.vhd
+l0
+L5
+ViIgGS<LBzDZT_=k0S93<V0
+!s100 EeIja62@[3;i5Mai^W2Ma3
+R7
+32
+R83
+!i10b 1
+R84
+Z140 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Ahmed/New folder (6)/writebackstage.vhd|
+Z141 !s107 C:/Users/Owner/Desktop/Cairo University/Senior-1/Computer Architecture/final project/Arch project/Ahmed/New folder (6)/writebackstage.vhd|
+!i113 1
+R12
+R13
+Awriteback
+R1
+R2
+R3
+DEx4 work 9 writeback 0 22 iIgGS<LBzDZT_=k0S93<V0
+l20
+L18
+VMmV1U2;_f401hbeHTc[mm1
+!s100 ^GK^TI<QT1aX1:;fNGVc60
+R7
+32
+R83
+!i10b 1
+R84
+R140
+R141
+!i113 1
+R12
+R13

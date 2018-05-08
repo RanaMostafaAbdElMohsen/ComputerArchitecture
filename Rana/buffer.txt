@@ -1,0 +1,13 @@
+rOpcode: my_nDFF generic map (n => 5) port map(Clk,RST,OpcodeIn,OpcodeOut);
+rImmShift: my_nDFF generic map (n => 16) port map(Clk,RST,ImmShiftIn,ImmShiftOut);
+rImml: my_nDFF generic map (n => 16 ) port map(Clk,RST,ImmlIn,ImmlOut); 
+rData1: my_nDFF generic map (n => 16) port map(Clk,RST,Data1In,Data1Out);
+rData2: my_nDFF generic map (n => 16) port map(Clk,RST,Data2In,Data2Out);
+rWriteAddr: my_nDFF generic map (n => 3) port map(Clk,RST,WriteaddrIn,WriteAddrOut);
+rEA: my_nDFF generic map (n => 10) port map(Clk,RST,EAIn,EAOut);
+rPC: my_nDFF generic map (n => 16) port map(Clk,RST,PCIn,PCOut);
+rReadAddr1: my_nDFF generic map (n => 3) port map(Clk,RST,ReadAddr1In,ReadAddr1Out);
+rReadAddr2: my_nDFF generic map (n => 3) port map(Clk,RST,ReadAddr2In,ReadAddr2Out);
+rWB: my_nDFF generic map (n => 3) port map(Clk,RST,WBIn,WBOut);
+rM: my_nDFF generic map (n => 3) port map(Clk,RST,MIn,MOut);
+rEx: my_nDFF generic map (n => 3) port map(Clk,RST,ExIn,ExOut);

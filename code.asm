@@ -1,0 +1,6 @@
+LDM R4,1
+LDM R2,5
+LDM R3,2
+LDM R1,2
+Add R2,R4
+Add R1,R3
